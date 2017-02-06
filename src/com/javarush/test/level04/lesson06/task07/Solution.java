@@ -10,7 +10,6 @@ package com.javarush.test.level04.lesson06.task07;
 */
 
 import java.io.*;
-import java.util.Objects;
 
 public class Solution
 {
